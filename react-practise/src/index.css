@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+*{
+    margin: 0;
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-around;
+}
+.navbar h1{
+    color: #f1356d
+}
+.navbar a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #333;
+}
+.content{
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
